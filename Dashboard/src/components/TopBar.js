@@ -23,4 +23,4 @@ const TopBar = () => {
   );
 };
 
-export default To
+export default TopBar;
