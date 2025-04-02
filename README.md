@@ -1,4 +1,4 @@
-Trading and Investment Platform
+Comprehensive Trading and Investment Platform
 
 Overview
 
