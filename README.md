@@ -65,11 +65,6 @@ Created by Garima Mittal
 
 ---
 
-## 📄 License
-MIT License — Free to use, fork, and contribute.
-
----
-
 ## ✨ Acknowledgments
 - Chart.js & React Docs
 
